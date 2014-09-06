@@ -1,0 +1,11 @@
+{
+    "name": "route-access",
+    "version": "0.1.0",
+    "description": "protect routes based on permission or role",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Dane Grant",
+    "license": "(c) Copyright 2014 Our Rock"
+}
