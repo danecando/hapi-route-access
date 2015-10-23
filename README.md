@@ -1,8 +1,10 @@
-# hapi-route-access - simple hapi role & permission auth used in conjunction with hapi-auth-cookie
+# This module is not maintained or working with any current versions of Hapi
+
+### hapi-route-access - simple hapi role & permission auth used in conjunction with hapi-auth-cookie
 
 This plugin is very specific to my application as it assumes that your session auth will have variables role and permission assigned to them. I am publishing it now anyway just to put more stuff out that demonstrates the power of the hapi node.js framework and another example to help people that are just getting started with it.
 
-## Setup && Options
+#### Setup && Options
 
 Register the plugin with server.pack.register
 
